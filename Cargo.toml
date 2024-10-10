@@ -1,0 +1,6 @@
+[package]
+name = "convert_mov_to_mp4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
